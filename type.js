@@ -12,7 +12,7 @@ new Boolean(false); // 래퍼 객체로 만들 수 있다. 그러나 'object' �
 // Undefined
 // Array
 var car = ["BMW", "BENZ"]; // 선언과 할당을 동시에
-var list = ["a", "b", "c"]; // 제네릭 사용
+// let list: Array<string> = ["a", "b", "c"]; // 제네릭 사용
 var arr2 = [1, 2, 3, "a"];
 // Tuple
 var tuple;

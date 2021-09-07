@@ -24,7 +24,7 @@ new Boolean(false); // 래퍼 객체로 만들 수 있다. 그러나 'object' �
 
 let car: string[] = ["BMW", "BENZ"]; // 선언과 할당을 동시에
 
-let list: Array<string> = ["a", "b", "c"]; // 제네릭 사용
+// let list: Array<string> = ["a", "b", "c"]; // 제네릭 사용
 
 let arr2: (number | string)[] = [1, 2, 3, "a"];
 
